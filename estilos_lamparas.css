@@ -1,0 +1,169 @@
+/* CSS Document */
+
+
+button, input, select, textarea {
+  font-family : inherit;
+  font-size   : 100%;
+}
+
+.Titulo
+{
+
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size:37px;
+color: #1f1f1f;
+}
+
+
+.TituloForm
+{
+
+font-family: Berlin Sans FB;
+font-size:37px;
+color: #EBEBEB;
+}
+
+
+.Subtitulo
+{
+
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size:30px;
+color: #1f1f1f;
+
+}
+
+
+
+.Subtitulo2
+{
+
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+font-size:30px;
+color: #1f1f1f;
+
+}
+
+
+.Links
+{
+
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size:23px;
+color: #2E9BE4;
+
+}
+
+
+
+.Texto
+{
+
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size:19px;
+color: #1f1f1f;
+}
+
+.textoNegroclaro
+
+{
+
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size:19px;
+color: #3f3f3f;
+}
+
+
+.ImagenEfecto{
+transition: width 0.8s, height 0.8s;
+}
+
+.ImagenEfecto:hover 
+{
+width: 520px;
+height:250px;
+transition: width 0.5s, height 0.5s;
+
+}
+
+
+
+.ImagenEfecto2{
+transition: width 0.5s, height 0.5s;
+}
+
+
+.ImagenEfecto2:hover 
+{
+width: 1960px;
+height:600px;
+transition: width 0.5s, height 0.5s;
+
+}
+
+
+.ImagenEfecto3{
+transition: width 0.5s, height 0.5s;
+}
+
+
+.ImagenEfecto3:hover 
+{
+width: 1920px;
+height:1000px;
+transition: width 0.5s, height 0.5s;
+
+}
+
+.ImagenEfecto4{
+transition: width 0.5s, height 0.5s;
+}
+
+
+.ImagenEfecto4:hover 
+{
+width: 2000px;
+height:750px;
+transition: width 0.5s, height 0.5s;
+
+}
+
+
+.ImagenEfecto5{
+transition: width 0.5s, height 0.5s;
+}
+
+
+.ImagenEfecto5:hover 
+{
+width: 2000px;
+height:820px;
+transition: width 0.5s, height 0.5s;
+
+}
+
+.Tformulario
+{
+
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size:16px;
+color: #EBEBEB;
+}
+
+.NN{
+border:2px solid #575757;
+border-left:none;
+border-right:none;
+border-top:none;
+background:#FF1701;
+transition:border 0.5s;
+color:#FFFFFF;
+}
+
+.NN:hover{
+border:2px solid white;
+border-left:none;
+border-right:none;
+border-top:none;
+transition:border 0.5s;
+}
